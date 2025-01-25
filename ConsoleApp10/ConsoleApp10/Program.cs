@@ -20,7 +20,7 @@ namespace ConsoleApp10
             {
                 for (int a = 1; a <= 10; a++)
                 {
-                    Console.Write(a);
+                    Console.Write($"{a} ");
                 }
                 Console.WriteLine(" ");
             }

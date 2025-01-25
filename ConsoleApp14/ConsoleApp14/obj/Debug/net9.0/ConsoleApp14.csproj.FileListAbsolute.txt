@@ -1,0 +1,14 @@
+/home/sasha/RiderProjects/ConsoleApp14/ConsoleApp14/bin/Debug/net9.0/ConsoleApp14
+/home/sasha/RiderProjects/ConsoleApp14/ConsoleApp14/bin/Debug/net9.0/ConsoleApp14.deps.json
+/home/sasha/RiderProjects/ConsoleApp14/ConsoleApp14/bin/Debug/net9.0/ConsoleApp14.runtimeconfig.json
+/home/sasha/RiderProjects/ConsoleApp14/ConsoleApp14/bin/Debug/net9.0/ConsoleApp14.dll
+/home/sasha/RiderProjects/ConsoleApp14/ConsoleApp14/bin/Debug/net9.0/ConsoleApp14.pdb
+/home/sasha/RiderProjects/ConsoleApp14/ConsoleApp14/obj/Debug/net9.0/ConsoleApp14.GeneratedMSBuildEditorConfig.editorconfig
+/home/sasha/RiderProjects/ConsoleApp14/ConsoleApp14/obj/Debug/net9.0/ConsoleApp14.AssemblyInfoInputs.cache
+/home/sasha/RiderProjects/ConsoleApp14/ConsoleApp14/obj/Debug/net9.0/ConsoleApp14.AssemblyInfo.cs
+/home/sasha/RiderProjects/ConsoleApp14/ConsoleApp14/obj/Debug/net9.0/ConsoleApp14.csproj.CoreCompileInputs.cache
+/home/sasha/RiderProjects/ConsoleApp14/ConsoleApp14/obj/Debug/net9.0/ConsoleApp14.dll
+/home/sasha/RiderProjects/ConsoleApp14/ConsoleApp14/obj/Debug/net9.0/refint/ConsoleApp14.dll
+/home/sasha/RiderProjects/ConsoleApp14/ConsoleApp14/obj/Debug/net9.0/ConsoleApp14.pdb
+/home/sasha/RiderProjects/ConsoleApp14/ConsoleApp14/obj/Debug/net9.0/ConsoleApp14.genruntimeconfig.cache
+/home/sasha/RiderProjects/ConsoleApp14/ConsoleApp14/obj/Debug/net9.0/ref/ConsoleApp14.dll
